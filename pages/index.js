@@ -70,10 +70,10 @@ export default function Home() {
         <div className={styles.center}>
           <Image
             className={styles.logo}
-            src="/next.svg"
-            alt="Next.js Logo"
-            width={180}
-            height={37}
+            src="/watsoncompany.jpg"
+            alt="watson company Logo"
+            width={500}
+            height={50}
             priority
           />
           <div className={styles.thirteen}>
