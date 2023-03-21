@@ -19,7 +19,9 @@ export default function Home() {
 				<meta property="og:type" content="website"></meta>
 				<meta property="og:site_name" content="Parts Wallet"></meta>
 				<meta property="og:title" content="Parts Wallet"></meta>
-				<meta property="og:description" content="Parts Wallet"></meta>
+				<meta property="og:description" content="
+        Securely store your gaming assets, effortlessly trade with ease, and unlock a world of possibilities with our innovative Web3 wallet - the ultimate game-changer for blockchain gaming.
+        "></meta>
 				<meta property="og:image" content="/bodyparts.png"></meta>
 				<meta property="og:image:width" content="1400"></meta>
 				<meta property="og:image:height" content="1400"></meta>
